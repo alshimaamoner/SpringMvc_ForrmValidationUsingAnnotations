@@ -1,0 +1,5 @@
+base\UserController.class
+base\ApplicationConfiguration.class
+base\User.class
+base\CustomFormat.class
+base\UserService.class
